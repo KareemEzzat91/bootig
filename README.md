@@ -18,8 +18,10 @@ A modern Flutter mobile application that provides seamless access to the Kuwaiti
 
 <!-- Add your app screenshots here -->
 ### App Screenshots
-![Home Screen](assets/images/splash.png)
-![Loading Screen](assets/images/AppIcon.jpg)
+<img width="409" height="825" alt="image" src="https://github.com/user-attachments/assets/c93dc3c1-1372-4143-abcb-16f05f5ee690" />
+<img width="1011" height="359" alt="image" src="https://github.com/user-attachments/assets/b89e12de-e28e-4167-af80-55175ce01532" />
+
+
 
 <!-- You can add more screenshots by uploading them to the assets/images/ directory and referencing them here -->
 
